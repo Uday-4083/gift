@@ -1,0 +1,1224 @@
+[
+  {
+    "name": "Smart Watch Pro X",
+    "description": "Advanced smartwatch with health tracking, notifications, and customizable watch faces. Features heart rate monitoring, sleep tracking, and 5-day battery life.",
+    "basePrice": 4999,
+    "category": "Electronics",
+    "stock": 50,
+    "image": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=500"
+  },
+  {
+    "name": "Wireless Noise-Cancelling Headphones",
+    "description": "Premium wireless headphones with active noise cancellation, 30-hour battery life, and crystal-clear sound quality.",
+    "basePrice": 3999,
+    "category": "Electronics",
+    "stock": 40,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500"
+  },
+  {
+    "name": "Portable Bluetooth Speaker",
+    "description": "Waterproof portable speaker with 360-degree sound, 20-hour battery life, and built-in microphone for calls.",
+    "basePrice": 2499,
+    "category": "Electronics",
+    "stock": 60,
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=500"
+  },
+  {
+    "name": "Classic Leather Wallet",
+    "description": "Handcrafted genuine leather wallet with multiple card slots and RFID protection. Perfect for everyday use.",
+    "basePrice": 1299,
+    "category": "Fashion",
+    "stock": 100,
+    "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?w=500"
+  },
+  {
+    "name": "Designer Sunglasses",
+    "description": "UV-protected polarized sunglasses with premium metal frame and scratch-resistant lenses.",
+    "basePrice": 2999,
+    "category": "Fashion",
+    "stock": 45,
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=500"
+  },
+  {
+    "name": "Aromatherapy Diffuser Set",
+    "description": "Modern essential oil diffuser with LED lights and 6 premium essential oils. Perfect for creating a relaxing atmosphere.",
+    "basePrice": 1899,
+    "category": "Home & Living",
+    "stock": 55,
+    "image": "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?w=500"
+  },
+  {
+    "name": "Premium Coffee Maker",
+    "description": "Programmable coffee maker with built-in grinder, multiple brew strengths, and thermal carafe.",
+    "basePrice": 4499,
+    "category": "Home & Living",
+    "stock": 30,
+    "image": "https://images.unsplash.com/photo-1517914309068-900c5bef66b3?w=500"
+  },
+  {
+    "name": "Personalized Journal Set",
+    "description": "Premium leather-bound journal with personalized engraving and high-quality paper. Includes matching pen.",
+    "basePrice": 899,
+    "category": "Books & Stationery",
+    "stock": 80,
+    "image": "https://images.unsplash.com/photo-1577375729152-4c8b5fcda381?w=500"
+  },
+  {
+    "name": "Luxury Skincare Set",
+    "description": "Complete skincare routine including cleanser, toner, serum, and moisturizer. Made with natural ingredients.",
+    "basePrice": 2999,
+    "category": "Beauty & Personal Care",
+    "stock": 40,
+    "image": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?w=500"
+  },
+  {
+    "name": "Smart Fitness Band",
+    "description": "Advanced fitness tracker with heart rate monitoring, sleep tracking, and smartphone notifications.",
+    "basePrice": 1999,
+    "category": "Sports & Fitness",
+    "stock": 65,
+    "image": "https://images.unsplash.com/photo-1576243345690-4e4b692b0b04?w=500"
+  },
+  {
+    "name": "Digital Camera Kit",
+    "description": "Professional-grade digital camera with 24MP sensor, 4K video, and multiple lenses included.",
+    "basePrice": 29999,
+    "category": "Electronics",
+    "stock": 25,
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500"
+  },
+  {
+    "name": "Luxury Watch Collection",
+    "description": "Premium automatic watch with sapphire crystal, genuine leather strap, and water resistance.",
+    "basePrice": 15999,
+    "category": "Fashion",
+    "stock": 20,
+    "image": "https://images.unsplash.com/photo-1587836374828-4dbafa94cf0e?w=500"
+  },
+  {
+    "name": "Wireless Gaming Mouse",
+    "description": "High-precision gaming mouse with customizable RGB lighting and programmable buttons.",
+    "basePrice": 2499,
+    "category": "Electronics",
+    "stock": 35,
+    "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?w=500"
+  },
+  {
+    "name": "Mechanical Keyboard",
+    "description": "RGB mechanical keyboard with customizable switches and anti-ghosting technology.",
+    "basePrice": 3499,
+    "category": "Electronics",
+    "stock": 45,
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=500"
+  },
+  {
+    "name": "Designer Handbag",
+    "description": "Luxury handbag made with premium materials and elegant design.",
+    "basePrice": 12999,
+    "category": "Fashion",
+    "stock": 15,
+    "image": "https://images.unsplash.com/photo-1556306535-0f09a537f0a3?w=500"
+  },
+  {
+    "name": "Premium Denim Jacket",
+    "description": "Classic denim jacket with modern fit and premium stitching.",
+    "basePrice": 3999,
+    "category": "Fashion",
+    "stock": 30,
+    "image": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=500"
+  },
+  {
+    "name": "Smart Home Hub",
+    "description": "Central control for all your smart home devices with voice control support.",
+    "basePrice": 5999,
+    "category": "Home & Living",
+    "stock": 25,
+    "image": "https://images.unsplash.com/photo-1558002038-1055eec2c2e7?w=500"
+  },
+  {
+    "name": "Air Purifier",
+    "description": "HEPA air purifier with smart sensors and multiple filtration stages.",
+    "basePrice": 8999,
+    "category": "Home & Living",
+    "stock": 20,
+    "image": "https://images.unsplash.com/photo-1581094794329-c8112c4e0d0c?w=500"
+  },
+  {
+    "name": "Premium Fountain Pen",
+    "description": "Handcrafted fountain pen with gold nib and premium ink flow system.",
+    "basePrice": 2999,
+    "category": "Books & Stationery",
+    "stock": 40,
+    "image": "https://images.unsplash.com/photo-1585338101529-09b4e0a1d2d1?w=500"
+  },
+  {
+    "name": "Leather-Bound Notebook",
+    "description": "Handmade leather notebook with premium paper and elastic closure.",
+    "basePrice": 1499,
+    "category": "Books & Stationery",
+    "stock": 50,
+    "image": "https://images.unsplash.com/photo-1585338101529-09b4e0a1d2d1?w=500"
+  },
+  {
+    "name": "Professional Makeup Kit",
+    "description": "Complete makeup set with premium brushes and high-quality cosmetics.",
+    "basePrice": 4999,
+    "category": "Beauty & Personal Care",
+    "stock": 30,
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=500"
+  },
+  {
+    "name": "Hair Care Set",
+    "description": "Luxury hair care products for all hair types with natural ingredients.",
+    "basePrice": 2499,
+    "category": "Beauty & Personal Care",
+    "stock": 45,
+    "image": "https://images.unsplash.com/photo-1605497788044-5a32c7078486?w=500"
+  },
+  {
+    "name": "Yoga Mat Set",
+    "description": "Premium yoga mat with carrying strap and alignment markers.",
+    "basePrice": 1999,
+    "category": "Sports & Fitness",
+    "stock": 60,
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=500"
+  },
+  {
+    "name": "Resistance Band Set",
+    "description": "Complete set of resistance bands for full-body workouts.",
+    "basePrice": 1499,
+    "category": "Sports & Fitness",
+    "stock": 75,
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=500"
+  },
+  {
+    "name": "Smartphone Pro Max",
+    "description": "Latest smartphone with 6.7-inch display, 48MP camera, and 5G connectivity.",
+    "basePrice": 89999,
+    "category": "Electronics",
+    "stock": 30,
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=500"
+  },
+  {
+    "name": "Wireless Earbuds Pro",
+    "description": "Premium wireless earbuds with active noise cancellation and 24-hour battery life.",
+    "basePrice": 19999,
+    "category": "Electronics",
+    "stock": 45,
+    "image": "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?w=500"
+  },
+  {
+    "name": "4K Smart TV",
+    "description": "65-inch 4K UHD Smart TV with HDR and built-in streaming apps.",
+    "basePrice": 69999,
+    "category": "Electronics",
+    "stock": 20,
+    "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=500"
+  },
+  {
+    "name": "Gaming Laptop",
+    "description": "High-performance gaming laptop with RTX graphics and 144Hz display.",
+    "basePrice": 129999,
+    "category": "Electronics",
+    "stock": 15,
+    "image": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=500"
+  },
+  {
+    "name": "Designer T-Shirt Collection",
+    "description": "Premium cotton t-shirts with unique designs and comfortable fit.",
+    "basePrice": 1999,
+    "category": "Fashion",
+    "stock": 100,
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=500"
+  },
+  {
+    "name": "Luxury Silk Scarf",
+    "description": "Handcrafted silk scarf with intricate patterns and premium finish.",
+    "basePrice": 3499,
+    "category": "Fashion",
+    "stock": 40,
+    "image": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=500"
+  },
+  {
+    "name": "Premium Leather Boots",
+    "description": "Handmade leather boots with durable soles and comfortable fit.",
+    "basePrice": 7999,
+    "category": "Fashion",
+    "stock": 35,
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=500"
+  },
+  {
+    "name": "Smart Thermostat",
+    "description": "WiFi-enabled smart thermostat with energy-saving features.",
+    "basePrice": 12999,
+    "category": "Home & Living",
+    "stock": 30,
+    "image": "https://images.unsplash.com/photo-1558002038-1055eec2c2e7?w=500"
+  },
+  {
+    "name": "Robot Vacuum Cleaner",
+    "description": "Smart robot vacuum with mapping technology and app control.",
+    "basePrice": 24999,
+    "category": "Home & Living",
+    "stock": 25,
+    "image": "https://images.unsplash.com/photo-1589254065878-42c9da997008?w=500"
+  },
+  {
+    "name": "Smart Lighting Kit",
+    "description": "Color-changing smart bulbs with voice control and scheduling.",
+    "basePrice": 8999,
+    "category": "Home & Living",
+    "stock": 40,
+    "image": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?w=500"
+  },
+  {
+    "name": "Premium Calligraphy Set",
+    "description": "Complete calligraphy set with premium inks and various nibs.",
+    "basePrice": 2499,
+    "category": "Books & Stationery",
+    "stock": 30,
+    "image": "https://images.unsplash.com/photo-1585338101529-09b4e0a1d2d1?w=500"
+  },
+  {
+    "name": "Art Supplies Kit",
+    "description": "Professional art supplies including paints, brushes, and canvas.",
+    "basePrice": 3999,
+    "category": "Books & Stationery",
+    "stock": 25,
+    "image": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?w=500"
+  },
+  {
+    "name": "Luxury Perfume Set",
+    "description": "Collection of premium fragrances for different occasions.",
+    "basePrice": 5999,
+    "category": "Beauty & Personal Care",
+    "stock": 20,
+    "image": "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?w=500"
+  },
+  {
+    "name": "Professional Hair Styling Kit",
+    "description": "Complete hair styling set with premium tools and accessories.",
+    "basePrice": 4499,
+    "category": "Beauty & Personal Care",
+    "stock": 35,
+    "image": "https://images.unsplash.com/photo-1605497788044-5a32c7078486?w=500"
+  },
+  {
+    "name": "Smart Jump Rope",
+    "description": "Digital jump rope with workout tracking and Bluetooth connectivity.",
+    "basePrice": 1999,
+    "category": "Sports & Fitness",
+    "stock": 50,
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=500"
+  },
+  {
+    "name": "Premium Dumbbell Set",
+    "description": "Adjustable dumbbell set with storage rack and exercise guide.",
+    "basePrice": 5999,
+    "category": "Sports & Fitness",
+    "stock": 30,
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=500"
+  },
+  {
+    "name": "Smart Water Bottle",
+    "description": "Hydration tracking water bottle with reminders and temperature control.",
+    "basePrice": 2499,
+    "category": "Sports & Fitness",
+    "stock": 60,
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=500"
+  },
+  {
+    "name": "Wireless Charging Pad",
+    "description": "Fast wireless charging pad with multiple device support.",
+    "basePrice": 1999,
+    "category": "Electronics",
+    "stock": 45,
+    "image": "https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=500"
+  },
+  {
+    "name": "Portable SSD",
+    "description": "High-speed portable SSD with 1TB storage and USB-C connectivity.",
+    "basePrice": 9999,
+    "category": "Electronics",
+    "stock": 25,
+    "image": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=500"
+  },
+  {
+    "name": "Designer Backpack",
+    "description": "Premium leather backpack with laptop compartment and anti-theft features.",
+    "basePrice": 8999,
+    "category": "Fashion",
+    "stock": 40,
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=500"
+  },
+  {
+    "name": "Luxury Cufflinks",
+    "description": "Handcrafted cufflinks with premium materials and elegant design.",
+    "basePrice": 4999,
+    "category": "Fashion",
+    "stock": 30,
+    "image": "https://images.unsplash.com/photo-1585338101529-09b4e0a1d2d1?w=500"
+  },
+  {
+    "name": "Smart Door Lock",
+    "description": "Keyless smart door lock with fingerprint and app control.",
+    "basePrice": 14999,
+    "category": "Home & Living",
+    "stock": 20,
+    "image": "https://images.unsplash.com/photo-1558002038-1055eec2c2e7?w=500"
+  },
+  {
+    "name": "Premium Bedding Set",
+    "description": "Luxury bedding set with high thread count and premium materials.",
+    "basePrice": 7999,
+    "category": "Home & Living",
+    "stock": 35,
+    "image": "https://images.unsplash.com/photo-1505693314120-0d887f0e7f1d?w=500"
+  },
+  {
+    "name": "Calligraphy Paper Set",
+    "description": "Premium paper set for calligraphy and art projects.",
+    "basePrice": 1499,
+    "category": "Books & Stationery",
+    "stock": 50,
+    "image": "https://images.unsplash.com/photo-1585338101529-09b4e0a1d2d1?w=500"
+  },
+  {
+    "name": "Professional Nail Care Kit",
+    "description": "Complete nail care set with premium tools and polishes.",
+    "basePrice": 2999,
+    "category": "Beauty & Personal Care",
+    "stock": 40,
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=500"
+  },
+  {
+    "name": "Smart Scale",
+    "description": "Digital smart scale with body composition analysis and app sync.",
+    "basePrice": 3999,
+    "category": "Sports & Fitness",
+    "stock": 45,
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=500"
+  },
+  {
+    "name": "Premium Smartphone Case",
+    "description": "Luxury leather case with card slots and magnetic closure.",
+    "basePrice": 2499,
+    "category": "Electronics",
+    "stock": 60,
+    "image": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?w=500"
+  },
+  {
+    "name": "Wireless Gaming Controller",
+    "description": "Ergonomic gaming controller with customizable buttons and RGB lighting.",
+    "basePrice": 4999,
+    "category": "Electronics",
+    "stock": 35,
+    "image": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=500"
+  },
+  {
+    "name": "Designer Belt Collection",
+    "description": "Premium leather belts with unique buckles and elegant designs.",
+    "basePrice": 2999,
+    "category": "Fashion",
+    "stock": 50,
+    "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?w=500"
+  },
+  {
+    "name": "Luxury Tie Set",
+    "description": "Collection of premium silk ties with unique patterns.",
+    "basePrice": 3999,
+    "category": "Fashion",
+    "stock": 40,
+    "image": "https://images.unsplash.com/photo-1585338101529-09b4e0a1d2d1?w=500"
+  },
+  {
+    "name": "Smart Blinds",
+    "description": "Motorized window blinds with app control and scheduling.",
+    "basePrice": 14999,
+    "category": "Home & Living",
+    "stock": 25,
+    "image": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?w=500"
+  },
+  {
+    "name": "Premium Cookware Set",
+    "description": "Complete set of non-stick cookware with premium materials.",
+    "basePrice": 9999,
+    "category": "Home & Living",
+    "stock": 30,
+    "image": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?w=500"
+  },
+  {
+    "name": "Artistic Notebook Set",
+    "description": "Collection of premium notebooks with unique cover designs.",
+    "basePrice": 1999,
+    "category": "Books & Stationery",
+    "stock": 45,
+    "image": "https://images.unsplash.com/photo-1577375729152-4c8b5fcda381?w=500"
+  },
+  {
+    "name": "Premium Pen Set",
+    "description": "Collection of luxury pens with different nib sizes and inks.",
+    "basePrice": 3499,
+    "category": "Books & Stationery",
+    "stock": 35,
+    "image": "https://images.unsplash.com/photo-1585338101529-09b4e0a1d2d1?w=500"
+  },
+  {
+    "name": "Luxury Makeup Brush Set",
+    "description": "Complete set of premium makeup brushes with leather case.",
+    "basePrice": 4499,
+    "category": "Beauty & Personal Care",
+    "stock": 40,
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=500"
+  },
+  {
+    "name": "Professional Skincare Device",
+    "description": "Advanced skincare device with multiple treatment modes.",
+    "basePrice": 7999,
+    "category": "Beauty & Personal Care",
+    "stock": 25,
+    "image": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?w=500"
+  },
+  {
+    "name": "Smart Jump Rope Pro",
+    "description": "Advanced jump rope with workout tracking and coaching features.",
+    "basePrice": 2999,
+    "category": "Sports & Fitness",
+    "stock": 40,
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=500"
+  },
+  {
+    "name": "Premium Yoga Block Set",
+    "description": "Eco-friendly yoga blocks with non-slip surface.",
+    "basePrice": 1499,
+    "category": "Sports & Fitness",
+    "stock": 55,
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=500"
+  },
+  {
+    "name": "Wireless Power Bank",
+    "description": "High-capacity power bank with wireless charging capability.",
+    "basePrice": 2999,
+    "category": "Electronics",
+    "stock": 50,
+    "image": "https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=500"
+  },
+  {
+    "name": "Premium Laptop Stand",
+    "description": "Ergonomic laptop stand with adjustable height and cooling features.",
+    "basePrice": 1999,
+    "category": "Electronics",
+    "stock": 45,
+    "image": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=500"
+  },
+  {
+    "name": "Designer Socks Collection",
+    "description": "Premium cotton socks with unique patterns and comfortable fit.",
+    "basePrice": 999,
+    "category": "Fashion",
+    "stock": 80,
+    "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?w=500"
+  },
+  {
+    "name": "Luxury Pocket Square Set",
+    "description": "Collection of premium pocket squares with elegant designs.",
+    "basePrice": 1999,
+    "category": "Fashion",
+    "stock": 35,
+    "image": "https://images.unsplash.com/photo-1585338101529-09b4e0a1d2d1?w=500"
+  },
+  {
+    "name": "Smart Plant Pot",
+    "description": "Self-watering plant pot with app monitoring and care reminders.",
+    "basePrice": 3999,
+    "category": "Home & Living",
+    "stock": 30,
+    "image": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?w=500"
+  },
+  {
+    "name": "Premium Kitchen Knife Set",
+    "description": "Professional-grade knife set with wooden block and sharpener.",
+    "basePrice": 5999,
+    "category": "Home & Living",
+    "stock": 25,
+    "image": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?w=500"
+  },
+  {
+    "name": "Calligraphy Ink Set",
+    "description": "Collection of premium calligraphy inks in various colors.",
+    "basePrice": 1499,
+    "category": "Books & Stationery",
+    "stock": 40,
+    "image": "https://images.unsplash.com/photo-1585338101529-09b4e0a1d2d1?w=500"
+  },
+  {
+    "name": "Premium Sketchbook Set",
+    "description": "Collection of high-quality sketchbooks for different mediums.",
+    "basePrice": 2499,
+    "category": "Books & Stationery",
+    "stock": 35,
+    "image": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?w=500"
+  },
+  {
+    "name": "Luxury Hair Dryer",
+    "description": "Professional hair dryer with multiple heat settings and attachments.",
+    "basePrice": 4999,
+    "category": "Beauty & Personal Care",
+    "stock": 30,
+    "image": "https://images.unsplash.com/photo-1605497788044-5a32c7078486?w=500"
+  },
+  {
+    "name": "Premium Shaving Kit",
+    "description": "Complete shaving set with premium razor and accessories.",
+    "basePrice": 3499,
+    "category": "Beauty & Personal Care",
+    "stock": 40,
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=500"
+  },
+  {
+    "name": "Smart Foam Roller",
+    "description": "Digital foam roller with pressure sensors and guided exercises.",
+    "basePrice": 2999,
+    "category": "Sports & Fitness",
+    "stock": 35,
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=500"
+  },
+  {
+    "name": "Premium Resistance Bands",
+    "description": "Set of professional resistance bands with different tension levels.",
+    "basePrice": 1999,
+    "category": "Sports & Fitness",
+    "stock": 50,
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=500"
+  },
+  {
+    "name": "Smart Desk Lamp",
+    "description": "Adjustable desk lamp with color temperature control and app integration.",
+    "basePrice": 2999,
+    "category": "Electronics",
+    "stock": 40,
+    "image": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?w=500"
+  },
+  {
+    "name": "Wireless Keyboard & Mouse Set",
+    "description": "Ergonomic keyboard and mouse set with silent keys and precision tracking.",
+    "basePrice": 3999,
+    "category": "Electronics",
+    "stock": 35,
+    "image": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=500"
+  },
+  {
+    "name": "Designer Watch Strap Collection",
+    "description": "Collection of premium watch straps in various materials and styles.",
+    "basePrice": 1999,
+    "category": "Fashion",
+    "stock": 45,
+    "image": "https://images.unsplash.com/photo-1587836374828-4dbafa94cf0e?w=500"
+  },
+  {
+    "name": "Luxury Scarf Collection",
+    "description": "Set of premium scarves in various materials and patterns.",
+    "basePrice": 2999,
+    "category": "Fashion",
+    "stock": 40,
+    "image": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=500"
+  },
+  {
+    "name": "Smart Air Fryer",
+    "description": "Digital air fryer with multiple cooking modes and app control.",
+    "basePrice": 7999,
+    "category": "Home & Living",
+    "stock": 30,
+    "image": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?w=500"
+  },
+  {
+    "name": "Premium Coffee Grinder",
+    "description": "Professional coffee grinder with adjustable grind settings.",
+    "basePrice": 4999,
+    "category": "Home & Living",
+    "stock": 25,
+    "image": "https://images.unsplash.com/photo-1517914309068-900c5bef66b3?w=500"
+  },
+  {
+    "name": "Artistic Calendar Set",
+    "description": "Collection of premium calendars with unique artwork.",
+    "basePrice": 1499,
+    "category": "Books & Stationery",
+    "stock": 50,
+    "image": "https://images.unsplash.com/photo-1577375729152-4c8b5fcda381?w=500"
+  },
+  {
+    "name": "Premium Bookmark Set",
+    "description": "Collection of elegant bookmarks with unique designs.",
+    "basePrice": 999,
+    "category": "Books & Stationery",
+    "stock": 60,
+    "image": "https://images.unsplash.com/photo-1577375729152-4c8b5fcda381?w=500"
+  },
+  {
+    "name": "Luxury Facial Steamer",
+    "description": "Professional facial steamer with adjustable settings.",
+    "basePrice": 3999,
+    "category": "Beauty & Personal Care",
+    "stock": 35,
+    "image": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?w=500"
+  },
+  {
+    "name": "Premium Hair Clipper Set",
+    "description": "Professional hair clipper set with multiple attachments.",
+    "basePrice": 2999,
+    "category": "Beauty & Personal Care",
+    "stock": 40,
+    "image": "https://images.unsplash.com/photo-1605497788044-5a32c7078486?w=500"
+  },
+  {
+    "name": "Smart Yoga Mat",
+    "description": "Digital yoga mat with pose detection and guided workouts.",
+    "basePrice": 4999,
+    "category": "Sports & Fitness",
+    "stock": 30,
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=500"
+  },
+  {
+    "name": "Premium Jump Rope",
+    "description": "Professional jump rope with adjustable length and weighted handles.",
+    "basePrice": 1499,
+    "category": "Sports & Fitness",
+    "stock": 45,
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=500"
+  },
+  {
+    "name": "Wireless Earbuds Case",
+    "description": "Premium leather case for wireless earbuds with charging capability.",
+    "basePrice": 1999,
+    "category": "Electronics",
+    "stock": 50,
+    "image": "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?w=500"
+  },
+  {
+    "name": "Premium Laptop Sleeve",
+    "description": "Luxury laptop sleeve with padding and water resistance.",
+    "basePrice": 2499,
+    "category": "Electronics",
+    "stock": 40,
+    "image": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=500"
+  },
+  {
+    "name": "Designer Gloves Collection",
+    "description": "Collection of premium gloves in various materials and styles.",
+    "basePrice": 1999,
+    "category": "Fashion",
+    "stock": 45,
+    "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?w=500"
+  },
+  {
+    "name": "Luxury Hat Collection",
+    "description": "Set of premium hats in various styles and materials.",
+    "basePrice": 2999,
+    "category": "Fashion",
+    "stock": 35,
+    "image": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=500"
+  },
+  {
+    "name": "Smart Water Purifier",
+    "description": "Digital water purifier with filter monitoring and app control.",
+    "basePrice": 14999,
+    "category": "Home & Living",
+    "stock": 25,
+    "image": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?w=500"
+  },
+  {
+    "name": "Premium Tea Set",
+    "description": "Complete tea set with premium materials and elegant design.",
+    "basePrice": 3999,
+    "category": "Home & Living",
+    "stock": 30,
+    "image": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?w=500"
+  },
+  {
+    "name": "Calligraphy Guide Set",
+    "description": "Complete set of calligraphy guides and practice sheets.",
+    "basePrice": 999,
+    "category": "Books & Stationery",
+    "stock": 55,
+    "image": "https://images.unsplash.com/photo-1585338101529-09b4e0a1d2d1?w=500"
+  },
+  {
+    "name": "Premium Pencil Set",
+    "description": "Collection of premium pencils for different art techniques.",
+    "basePrice": 1499,
+    "category": "Books & Stationery",
+    "stock": 45,
+    "image": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?w=500"
+  },
+  {
+    "name": "Luxury Hair Straightener",
+    "description": "Professional hair straightener with temperature control.",
+    "basePrice": 3999,
+    "category": "Beauty & Personal Care",
+    "stock": 35,
+    "image": "https://images.unsplash.com/photo-1605497788044-5a32c7078486?w=500"
+  },
+  {
+    "name": "Premium Hair Curler",
+    "description": "Professional hair curler with multiple barrel sizes.",
+    "basePrice": 3499,
+    "category": "Beauty & Personal Care",
+    "stock": 30,
+    "image": "https://images.unsplash.com/photo-1605497788044-5a32c7078486?w=500"
+  },
+  {
+    "name": "Smart Exercise Ball",
+    "description": "Digital exercise ball with workout tracking and guided exercises.",
+    "basePrice": 2499,
+    "category": "Sports & Fitness",
+    "stock": 40,
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=500"
+  },
+  {
+    "name": "Premium Yoga Strap",
+    "description": "Professional yoga strap with measurement markings.",
+    "basePrice": 999,
+    "category": "Sports & Fitness",
+    "stock": 50,
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=500"
+  },
+  {
+    "name": "Smart Desk Organizer",
+    "description": "Digital desk organizer with wireless charging and cable management.",
+    "basePrice": 2999,
+    "category": "Electronics",
+    "stock": 40,
+    "image": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?w=500"
+  },
+  {
+    "name": "Wireless Presentation Remote",
+    "description": "Professional presentation remote with laser pointer and timer.",
+    "basePrice": 1999,
+    "category": "Electronics",
+    "stock": 35,
+    "image": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=500"
+  },
+  {
+    "name": "Designer Tie Collection",
+    "description": "Collection of premium ties in various patterns and materials.",
+    "basePrice": 2499,
+    "category": "Fashion",
+    "stock": 45,
+    "image": "https://images.unsplash.com/photo-1585338101529-09b4e0a1d2d1?w=500"
+  },
+  {
+    "name": "Luxury Sock Collection",
+    "description": "Set of premium socks in various materials and patterns.",
+    "basePrice": 1499,
+    "category": "Fashion",
+    "stock": 60,
+    "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?w=500"
+  },
+  {
+    "name": "Smart Coffee Maker",
+    "description": "Digital coffee maker with app control and scheduling.",
+    "basePrice": 8999,
+    "category": "Home & Living",
+    "stock": 30,
+    "image": "https://images.unsplash.com/photo-1517914309068-900c5bef66b3?w=500"
+  },
+  {
+    "name": "Premium Blender",
+    "description": "Professional blender with multiple speed settings and pulse function.",
+    "basePrice": 5999,
+    "category": "Home & Living",
+    "stock": 25,
+    "image": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?w=500"
+  },
+  {
+    "name": "Artistic Pen Holder",
+    "description": "Premium pen holder with unique design and multiple slots.",
+    "basePrice": 999,
+    "category": "Books & Stationery",
+    "stock": 40,
+    "image": "https://images.unsplash.com/photo-1585338101529-09b4e0a1d2d1?w=500"
+  },
+  {
+    "name": "Premium Desk Calendar",
+    "description": "Luxury desk calendar with premium paper and elegant design.",
+    "basePrice": 1499,
+    "category": "Books & Stationery",
+    "stock": 50,
+    "image": "https://images.unsplash.com/photo-1577375729152-4c8b5fcda381?w=500"
+  },
+  {
+    "name": "Luxury Facial Mask Set",
+    "description": "Collection of premium facial masks for different skin types.",
+    "basePrice": 2999,
+    "category": "Beauty & Personal Care",
+    "stock": 45,
+    "image": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?w=500"
+  },
+  {
+    "name": "Premium Hair Mask Set",
+    "description": "Set of professional hair masks for different hair types.",
+    "basePrice": 1999,
+    "category": "Beauty & Personal Care",
+    "stock": 40,
+    "image": "https://images.unsplash.com/photo-1605497788044-5a32c7078486?w=500"
+  },
+  {
+    "name": "Smart Jump Rope Pro Max",
+    "description": "Professional digital jump rope with calorie tracking and workout modes.",
+    "basePrice": 1999,
+    "category": "Sports & Fitness",
+    "stock": 40,
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=500"
+  },
+  {
+    "name": "Premium Yoga Block",
+    "description": "Professional yoga block with non-slip surface and measurement markings.",
+    "basePrice": 1499,
+    "category": "Sports & Fitness",
+    "stock": 45,
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=500"
+  },
+  {
+    "name": "Wireless Charging Stand",
+    "description": "Premium charging stand with adjustable angle and fast charging.",
+    "basePrice": 2499,
+    "category": "Electronics",
+    "stock": 40,
+    "image": "https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=500"
+  },
+  {
+    "name": "Premium Laptop Stand Pro",
+    "description": "Ergonomic laptop stand with cooling fan and height adjustment.",
+    "basePrice": 2999,
+    "category": "Electronics",
+    "stock": 35,
+    "image": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=500"
+  },
+  {
+    "name": "Designer Belt Buckle Collection",
+    "description": "Collection of premium belt buckles in various styles.",
+    "basePrice": 1999,
+    "category": "Fashion",
+    "stock": 30,
+    "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?w=500"
+  },
+  {
+    "name": "Luxury Pocket Square Collection",
+    "description": "Set of premium pocket squares in various patterns.",
+    "basePrice": 2499,
+    "category": "Fashion",
+    "stock": 40,
+    "image": "https://images.unsplash.com/photo-1585338101529-09b4e0a1d2d1?w=500"
+  },
+  {
+    "name": "Smart Plant Monitor",
+    "description": "Digital plant monitor with soil moisture and light sensors.",
+    "basePrice": 1999,
+    "category": "Home & Living",
+    "stock": 35,
+    "image": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?w=500"
+  },
+  {
+    "name": "Premium Cutting Board Set",
+    "description": "Set of professional cutting boards in various sizes.",
+    "basePrice": 2999,
+    "category": "Home & Living",
+    "stock": 30,
+    "image": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?w=500"
+  },
+  {
+    "name": "Calligraphy Practice Set",
+    "description": "Complete set for calligraphy practice with guides and templates.",
+    "basePrice": 1499,
+    "category": "Books & Stationery",
+    "stock": 45,
+    "image": "https://images.unsplash.com/photo-1585338101529-09b4e0a1d2d1?w=500"
+  },
+  {
+    "name": "Premium Sketch Pad",
+    "description": "Professional sketch pad with premium paper quality.",
+    "basePrice": 999,
+    "category": "Books & Stationery",
+    "stock": 50,
+    "image": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?w=500"
+  },
+  {
+    "name": "Luxury Hair Brush Set",
+    "description": "Collection of premium hair brushes for different hair types.",
+    "basePrice": 2499,
+    "category": "Beauty & Personal Care",
+    "stock": 40,
+    "image": "https://images.unsplash.com/photo-1605497788044-5a32c7078486?w=500"
+  },
+  {
+    "name": "Premium Hair Dryer Stand",
+    "description": "Professional hair dryer stand with adjustable height.",
+    "basePrice": 1999,
+    "category": "Beauty & Personal Care",
+    "stock": 35,
+    "image": "https://images.unsplash.com/photo-1605497788044-5a32c7078486?w=500"
+  },
+  {
+    "name": "Smart Exercise Ball Pro",
+    "description": "Digital exercise ball with pressure sensors and workout tracking.",
+    "basePrice": 2999,
+    "category": "Sports & Fitness",
+    "stock": 30,
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=500"
+  },
+  {
+    "name": "Premium Yoga Mat Pro",
+    "description": "Professional yoga mat with non-slip surface and alignment markers.",
+    "basePrice": 1999,
+    "category": "Sports & Fitness",
+    "stock": 45,
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=500"
+  },
+  {
+    "name": "Wireless Charging Mat",
+    "description": "Premium charging mat with multiple device support.",
+    "basePrice": 1999,
+    "category": "Electronics",
+    "stock": 40,
+    "image": "https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=500"
+  },
+  {
+    "name": "Premium Laptop Cooling Pad",
+    "description": "Ergonomic cooling pad with adjustable height and fans.",
+    "basePrice": 2499,
+    "category": "Electronics",
+    "stock": 35,
+    "image": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=500"
+  },
+  {
+    "name": "Designer Watch Case",
+    "description": "Premium watch case with multiple compartments.",
+    "basePrice": 2999,
+    "category": "Fashion",
+    "stock": 30,
+    "image": "https://images.unsplash.com/photo-1587836374828-4dbafa94cf0e?w=500"
+  },
+  {
+    "name": "Luxury Jewelry Box",
+    "description": "Premium jewelry box with multiple compartments and mirror.",
+    "basePrice": 3999,
+    "category": "Fashion",
+    "stock": 25,
+    "image": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=500"
+  },
+  {
+    "name": "Smart Plant Watering System",
+    "description": "Digital plant watering system with scheduling and monitoring.",
+    "basePrice": 2999,
+    "category": "Home & Living",
+    "stock": 35,
+    "image": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?w=500"
+  },
+  {
+    "name": "Premium Kitchen Scale",
+    "description": "Professional kitchen scale with multiple measurement units.",
+    "basePrice": 1999,
+    "category": "Home & Living",
+    "stock": 40,
+    "image": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?w=500"
+  },
+  {
+    "name": "Calligraphy Ink Bottle Set",
+    "description": "Collection of premium calligraphy inks in various colors.",
+    "basePrice": 1499,
+    "category": "Books & Stationery",
+    "stock": 45,
+    "image": "https://images.unsplash.com/photo-1585338101529-09b4e0a1d2d1?w=500"
+  },
+  {
+    "name": "Premium Drawing Set",
+    "description": "Complete set of premium drawing tools and accessories.",
+    "basePrice": 1999,
+    "category": "Books & Stationery",
+    "stock": 35,
+    "image": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?w=500"
+  },
+  {
+    "name": "Luxury Face Cream Set",
+    "description": "Collection of premium face creams for different skin types.",
+    "basePrice": 3499,
+    "category": "Beauty & Personal Care",
+    "stock": 40,
+    "image": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?w=500"
+  },
+  {
+    "name": "Premium Hair Oil Set",
+    "description": "Set of professional hair oils for different hair types.",
+    "basePrice": 2499,
+    "category": "Beauty & Personal Care",
+    "stock": 35,
+    "image": "https://images.unsplash.com/photo-1605497788044-5a32c7078486?w=500"
+  },
+  {
+    "name": "Smart Exercise Ball Pro",
+    "description": "Digital exercise ball with pressure sensors and workout tracking.",
+    "basePrice": 2999,
+    "category": "Sports & Fitness",
+    "stock": 30,
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=500"
+  },
+  {
+    "name": "Premium Yoga Mat Pro",
+    "description": "Professional yoga mat with non-slip surface and alignment markers.",
+    "basePrice": 1999,
+    "category": "Sports & Fitness",
+    "stock": 45,
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=500"
+  },
+  {
+    "name": "Kids Smart Watch",
+    "description": "Child-friendly smartwatch with GPS tracking, SOS button, and parental controls. Perfect for children aged 5-12.",
+    "basePrice": 2499,
+    "category": "Kids Electronics",
+    "stock": 50,
+    "image": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=500",
+    "ageGroup": "children",
+    "gender": "unisex"
+  },
+  {
+    "name": "Educational Tablet Bundle",
+    "description": "Kid-safe tablet with pre-installed learning apps, games, and parental controls. Includes protective case.",
+    "basePrice": 8999,
+    "category": "Kids Electronics",
+    "stock": 40,
+    "image": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=500",
+    "ageGroup": "children",
+    "gender": "unisex"
+  },
+  {
+    "name": "Princess Dress Collection",
+    "description": "Set of beautiful princess dresses with matching accessories. Perfect for dress-up and play.",
+    "basePrice": 2999,
+    "category": "Kids Fashion",
+    "stock": 35,
+    "image": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=500",
+    "ageGroup": "children",
+    "gender": "female"
+  },
+  {
+    "name": "Superhero Costume Set",
+    "description": "Collection of popular superhero costumes with masks and accessories.",
+    "basePrice": 2499,
+    "category": "Kids Fashion",
+    "stock": 40,
+    "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?w=500",
+    "ageGroup": "children",
+    "gender": "male"
+  },
+  {
+    "name": "Teen Gaming Bundle",
+    "description": "Gaming console with popular teen-friendly games and wireless controller.",
+    "basePrice": 29999,
+    "category": "Teen Electronics",
+    "stock": 25,
+    "image": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=500",
+    "ageGroup": "teen",
+    "gender": "unisex"
+  },
+  {
+    "name": "Teen Fashion Accessories Set",
+    "description": "Trendy accessories including scrunchies, hair clips, and jewelry.",
+    "basePrice": 1499,
+    "category": "Teen Fashion",
+    "stock": 60,
+    "image": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=500",
+    "ageGroup": "teen",
+    "gender": "female"
+  },
+  {
+    "name": "Men's Grooming Kit Pro",
+    "description": "Complete grooming set with electric trimmer, beard oils, and accessories.",
+    "basePrice": 4999,
+    "category": "Men's Care",
+    "stock": 45,
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=500",
+    "ageGroup": "adult",
+    "gender": "male"
+  },
+  {
+    "name": "Women's Luxury Skincare Bundle",
+    "description": "Premium skincare collection with anti-aging serums and face masks.",
+    "basePrice": 5999,
+    "category": "Women's Care",
+    "stock": 40,
+    "image": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?w=500",
+    "ageGroup": "adult",
+    "gender": "female"
+  },
+  {
+    "name": "Senior Wellness Package",
+    "description": "Health monitoring devices including blood pressure monitor and pill organizer.",
+    "basePrice": 6999,
+    "category": "Senior Care",
+    "stock": 30,
+    "image": "https://images.unsplash.com/photo-1576243345690-4e4b692b0b04?w=500",
+    "ageGroup": "senior",
+    "gender": "unisex"
+  },
+  {
+    "name": "Toddler Learning Kit",
+    "description": "Educational toys and books for early development, ages 1-3.",
+    "basePrice": 2999,
+    "category": "Kids Education",
+    "stock": 50,
+    "image": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?w=500",
+    "ageGroup": "toddler",
+    "gender": "unisex"
+  },
+  {
+    "name": "Teen Sports Bundle",
+    "description": "Complete sports kit with basketball, soccer ball, and training accessories.",
+    "basePrice": 3999,
+    "category": "Teen Sports",
+    "stock": 35,
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=500",
+    "ageGroup": "teen",
+    "gender": "unisex"
+  },
+  {
+    "name": "Men's Premium Watch Collection",
+    "description": "Set of luxury watches for different occasions.",
+    "basePrice": 12999,
+    "category": "Men's Fashion",
+    "stock": 25,
+    "image": "https://images.unsplash.com/photo-1587836374828-4dbafa94cf0e?w=500",
+    "ageGroup": "adult",
+    "gender": "male"
+  },
+  {
+    "name": "Women's Designer Handbag Set",
+    "description": "Collection of premium handbags for different occasions.",
+    "basePrice": 15999,
+    "category": "Women's Fashion",
+    "stock": 20,
+    "image": "https://images.unsplash.com/photo-1556306535-0f09a537f0a3?w=500",
+    "ageGroup": "adult",
+    "gender": "female"
+  },
+  {
+    "name": "Senior Comfort Package",
+    "description": "Ergonomic accessories including reading light, magnifier, and comfort cushions.",
+    "basePrice": 4999,
+    "category": "Senior Care",
+    "stock": 35,
+    "image": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?w=500",
+    "ageGroup": "senior",
+    "gender": "unisex"
+  },
+  {
+    "name": "Baby Care Essential Kit",
+    "description": "Complete baby care package with monitor, sterilizer, and grooming items.",
+    "basePrice": 7999,
+    "category": "Baby Care",
+    "stock": 40,
+    "image": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?w=500",
+    "ageGroup": "infant",
+    "gender": "unisex"
+  }
+]
