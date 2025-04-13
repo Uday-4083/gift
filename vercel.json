@@ -14,6 +14,6 @@
   ],
   "env": {
     "NEXT_PUBLIC_API_URL": "https://gift-recommendation-system.onrender.com",
-    "NEXT_PUBLIC_GEMINI_API_KEY": "AIzaSyCjIg3iYslY-I7uM75OzAXfOf7p0XMufbk"
+    "NEXT_PUBLIC_GEMINI_API_KEY": "YOUR_API_KEY"
   }
 } 
